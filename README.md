@@ -1,4 +1,4 @@
-u projede, Kotlin kullanarak Retrofit ve Free Meal API ile başarılı bir yemek tarifi uygulaması geliştirdim. Uygulama, internetten veri çekip kullanıcıya çeşitli yemek tarifleri sunmaktadır. JSON formatındaki veriler, Free Meal API'den alınarak uygulamaya entegre edilmiştir. Bu verileri internetten çekmek ve kullanıcıya sunmak için Retrofit kütüphanesini kullandım.
+Bu projede, Kotlin kullanarak Retrofit ve Free Meal API ile başarılı bir yemek tarifi uygulaması geliştirdim. Uygulama, internetten veri çekip kullanıcıya çeşitli yemek tarifleri sunmaktadır. JSON formatındaki veriler, Free Meal API'den alınarak uygulamaya entegre edilmiştir. Bu verileri internetten çekmek ve kullanıcıya sunmak için Retrofit kütüphanesini kullandım.
 
 Proje Özellikleri:
 
