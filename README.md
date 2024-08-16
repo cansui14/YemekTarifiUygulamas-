@@ -3,13 +3,17 @@ Bu projede, Kotlin kullanarak Retrofit ve Free Meal API ile başarılı bir yeme
 Proje Özellikleri:
 
 Retrofit ile Veri Çekme: İnternetten JSON formatında verileri çekip uygulama içinde düzenli bir şekilde listeleme.
+
 RecyclerView Kullanımı: İnternetten çekilen verileri arayüzde düzenli bir şekilde listelemek için RecyclerView bileşeni kullanıldı.
+
 Adapter ve Interface: Verilerin doğru şekilde gösterimi için Adapter ve Interface yapıları kullanıldı.
 
 Uygulama Sayfaları:
 
 Anasayfa: Bu sayfada, "beef", "chicken", "dessert", "pasta", "breakfast" gibi farklı kategoriler listelenir. Kullanıcılar, bu kategorilere tıklayarak seçim yapabilirler.
+
 Kategori Detayı: Seçilen kategoriye ait yemeklerin listelendiği sayfa. Kullanıcılar, belirli bir kategorinin yemek çeşitlerini görüntüleyebilir.
+
 Yemek Detayı: Kullanıcının seçtiği bir yemeğin detaylarının (yemek adı, malzemeler, tarif) görüntülendiği sayfa.
 
 Geliştirme Süreci:
